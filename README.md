@@ -1,11 +1,8 @@
-# onlinetool
+# onlinetool_co
 OnlineTool.co offers free online tools: calculators, converters, codings, generators, compressors. Anytime, anywhere, ready when you need it!
-# What is Color Block Jam?
-👉 [OnlineTool.co](https://onlinetool.co) | [English] provides the best free web tools to make your life easier, whether you’re crushing work, hustling on a side project, or just trying to get stuff done faster.
 
-Progressive difficulty: Start with simple 2-block matches and work up to complex combinations
-Special blocks: Create powerful special blocks by making larger matches (4+ blocks)
-Objective-based: Each level has unique goals like clearing specific blocks or reaching target scores
+# What is onlinetool.co?
+👉 [OnlineTool.co](https://onlinetool.co) | [English] provides the best free web tools to make your life easier, whether you’re crushing work, hustling on a side project, or just trying to get stuff done faster.
 
 # faq
 Are these tools really free to use?
