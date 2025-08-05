@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard/
+Disallow: /de/dashboard/
+Disallow: /fr/dashboard/
+Disallow: /es/dashboard/
+Disallow: /it/dashboard/
+Disallow: /ja/dashboard/
+Disallow: /zh/dashboard/
+Disallow: /*.php$
+Disallow: /cdn-cgi/
+Sitemap: https://onlinetool.co/sitemap.xml
