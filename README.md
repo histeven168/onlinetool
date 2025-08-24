@@ -8,18 +8,18 @@ OnlineTool.co offers free online tools: calculators, converters, codings, genera
 
 # faq
 
-Are these tools really free to use?
+---Are these tools really free to use?
 
 Yes, all the tools on OnlineTool.co are completely free to use, no download needed.
 
-Do I need to create an account to use the tools?
+---Do I need to create an account to use the tools?
 
 No, you can use all the tools without creating an account. However, Signing in with google allows you to save your favorite tools, and leave a comment.
 
-Is my data safe when using these tools?
+---Is my data safe when using these tools?
 
 We take your privacy seriously. Most tools process your data in the browser without sending it to our servers. For tools that require server processing, we delete your data immediately after processing.
 
-Can I suggest a new tool to be added?
+---Can I suggest a new tool to be added?
 
 Absolutely! We warmly welcome your suggestions. Please email us at hello@onlinetool.co or leave your comments/feedback on our Contact Us page.
